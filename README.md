@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Ayush Rajput 👋
 
 I'm a passionate **Python developer** with a strong interest in **Artificial Intelligence**, **Robotics**, and **Data Science**. I love building intelligent systems that solve real-world problems and exploring the crossroads of data and automation.
 
@@ -18,9 +18,7 @@ I'm a passionate **Python developer** with a strong interest in **Artificial Int
 
 ## Connect with Me
 
-- GitHub: [https://github.com/your-username](https://github.com/ayush-rajput-official)
-
-
+- GitHub: [https://github.com/ayush-rajput-official]
 
 Thanks for stopping by! 🚀
 
